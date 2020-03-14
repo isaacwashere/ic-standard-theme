@@ -21,6 +21,6 @@ List related PRs:
 - [ ] Test(s)
 - [ ] Update Documentation/CHANGELOG
 
-## Screenshot of Proposed Changes
+### Screenshot of Proposed Changes
 
 - N/a
